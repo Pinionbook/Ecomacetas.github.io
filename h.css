@@ -1,0 +1,113 @@
+*{margin: 0px;
+padding: 0px;
+}
+.Titulo{color: #7cfc00;
+align: left;
+background: darkGreen;
+height: 90px;
+width: 100%;
+font-family: Times New Roman;
+padding-top:90px;
+  min-height:70px;
+  border-bottom:#7cfc00 3px solid;}
+img{width: 160px;
+height: 160px;
+object-fit:cover;
+border-radius: 80%;
+position: absolute;
+top: 12px;
+left:12px;
+}
+
+
+
+
+
+h2{text-align: center;
+position: right;
+font-size: 40px;}
+p{ font-size: 16px;
+text-align: justify;
+margin: 20px;
+}
+h5{font-size: 20px;}
+a{ font-size: 18px;}
+
+
+
+
+
+nav ul{
+    background-color: Olive;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline-flex;
+}
+nav a{color: yellow;
+    text-decoration: none;   
+    padding: 10px;    
+    width: 150px;
+}
+nav li:hover{background-color: green;
+    
+}
+.lista2{
+    padding: 15px;
+}
+.lista2 ul {
+    list-style-type: none;
+    
+}
+.lista2 a{color: yellow;
+    text-decoration:none;
+         }
+
+
+
+
+.Uno {color: white;
+width: 65%;
+height: auto;
+float: left;
+background-image: url("hojas.jpg");
+background-size: cover; 
+background-repeat: no-repeat;
+}
+
+.Fuera{ width: 100%;
+height: auto;
+color: white;
+background: mediumseagreen;
+}
+
+
+
+footer{
+    background: forestgreen;
+    color: white; 
+}
+footer p{ margin: 7px ;}
+pan{
+   margin: 5px;
+}
+.final li{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;    
+    width: 150px;
+}
+h5{color: #000000;}
+
+
+
+
+.pre
+    {position: absolute;
+top: 1300px;
+left: 670px;
+width: 300px;
+}
+video{border:5px solid olivedrab;}
